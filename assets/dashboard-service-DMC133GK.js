@@ -1,0 +1,1 @@
+import{a as e}from"./jsx-runtime-1OFTChe5.js";async function t(t,n){return e(`dashboard/overview`,{token:t},{signal:n})}export{t};
