@@ -1,0 +1,1 @@
+import{a as e}from"./jsx-runtime-DEjOSC9a.js";async function t(t,n){return e(`dashboard/overview`,{token:t},{signal:n})}export{t};
