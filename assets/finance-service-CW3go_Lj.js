@@ -1,0 +1,1 @@
+import{a as e}from"./jsx-runtime-1OFTChe5.js";var t=(t,n)=>e(t,n),n=e=>t(`finance/overview`,{token:e}),r=(e,n)=>t(`finance/payments`,{token:e,values:n}),i=(e,n)=>t(`finance/payment-proof`,{token:e,values:{payment_id:n}});export{n,i as r,r as t};

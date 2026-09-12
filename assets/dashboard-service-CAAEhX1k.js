@@ -1,1 +1,0 @@
-import{a as e}from"./jsx-runtime-QqzMihqd.js";async function t(t,n){return e(`dashboard/overview`,{token:t},{signal:n})}export{t};
