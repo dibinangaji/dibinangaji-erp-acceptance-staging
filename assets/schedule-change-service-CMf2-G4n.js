@@ -1,0 +1,1 @@
+import{a as e}from"./jsx-runtime-BQRQlTpU.js";var t=(t,n)=>e(t,n),n=e=>t(`schedule-changes/overview`,{token:e}),r=(e,n)=>t(`schedule-changes/create`,{token:e,values:n}),i=(e,n)=>t(`schedule-changes/review`,{token:e,values:n});export{n,i as r,r as t};
