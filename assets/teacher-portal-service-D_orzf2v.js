@@ -1,0 +1,1 @@
+import{a as e}from"./jsx-runtime-iOdTxugH.js";var t=(t,n)=>e(t,n),n=(e,n=`dashboard`)=>t(`teacher-portal/overview`,{token:e,view:n}),r=(e,n)=>t(`teacher-portal/profile`,{token:e,values:n}),i=(e,n)=>t(`teacher-portal/availability`,{token:e,values:n}),a=(e,n)=>t(`teacher-portal/availability/review`,{token:e,values:n});export{r as i,i as n,a as r,n as t};
