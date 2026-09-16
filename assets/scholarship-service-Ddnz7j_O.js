@@ -1,1 +1,0 @@
-import{a as e}from"./jsx-runtime-DD_P5Gye.js";var t=(t,n)=>e(t,n),n=e=>t(`scholarships/overview`,{token:e}),r=(e,n)=>t(`scholarships/create`,{token:e,values:n}),i=(e,n)=>t(`scholarships/review`,{token:e,values:n}),a=(e,n)=>t(`scholarships/document`,{token:e,id:n});export{i,a as n,n as r,r as t};
