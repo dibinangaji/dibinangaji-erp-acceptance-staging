@@ -1,0 +1,1 @@
+import{a as e}from"./jsx-runtime-CfvoxrVb.js";var t=(t,n)=>e(t,n),n=e=>t(`withdrawals/overview`,{token:e}),r=(e,n)=>t(`withdrawals/create`,{token:e,values:n}),i=(e,n)=>t(`withdrawals/process`,{token:e,values:n});export{n,i as r,r as t};
