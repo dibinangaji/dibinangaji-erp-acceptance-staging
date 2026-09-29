@@ -1,0 +1,1 @@
+function e(e,t=[]){let n=new Map(t.map(e=>[e.academic_period_id,String(e.start_date||``)])),r=new Map;return e.forEach(e=>{let t=e.class_code||e.class_id;t&&r.set(t,[...r.get(t)||[],e])}),[...r.values()].map(e=>[...e].sort((e,t)=>(n.get(t.academic_period_id)||``).localeCompare(n.get(e.academic_period_id)||``))[0])}export{e as t};

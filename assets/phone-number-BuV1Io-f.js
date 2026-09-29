@@ -1,0 +1,1 @@
+function e(e){let t=String(e??``).trim().replace(/^'/,``);if(!t)return``;let n=t.replace(/\D/g,``);return n.startsWith(`0062`)?`0${n.slice(4)}`:n.startsWith(`62`)?`0${n.slice(2)}`:/^8\d{7,14}$/.test(n)?`0${n}`:/^0\d{7,14}$/.test(n)?n:t}function t(t){let n=e(t);return n?!n.startsWith(`08`)||n.length<9?n:[n.slice(0,4),...n.slice(4).match(/.{1,4}/g)??[]].join(`-`):``}export{t};
