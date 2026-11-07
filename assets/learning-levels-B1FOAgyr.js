@@ -1,0 +1,1 @@
+var e=[`Iqro 1`,`Iqro 2`,`Iqro 3`,`Iqro 4`,`Iqro 5`,`Iqro 6`,`Al-Qur'an`];export{e as t};
