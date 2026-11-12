@@ -1,0 +1,1 @@
+import{I as e}from"./index-BHNpDMsL.js";var t=(t,n)=>e(t,n),n=(e,n)=>t(`calendar/overview`,{token:e,range:n}),r=(e,n)=>t(`calendar/create`,{token:e,values:n}),i=(e,n,r)=>t(`calendar/update`,{token:e,id:n,values:r}),a=(e,n)=>t(`calendar/archive`,{token:e,id:n});export{i,r as n,n as r,a as t};
