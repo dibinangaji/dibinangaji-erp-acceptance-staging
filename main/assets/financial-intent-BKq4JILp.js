@@ -1,0 +1,1 @@
+function e(e,t){let n=JSON.stringify(t);return e.current?.key!==n&&(e.current={key:n,requestId:crypto.randomUUID()}),{requestId:e.current.requestId,confirm:!0}}export{e as t};
